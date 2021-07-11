@@ -26,4 +26,6 @@ button {
   display: inline-block;
   padding: 23px;
   background-color: #91dac9;
+  border: 2px solid black;
+
 }
